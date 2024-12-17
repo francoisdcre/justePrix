@@ -34,12 +34,5 @@ justePrix-main/
   <li>Programmation en JavaScript pour gérer la logique et les interactions utilisateur.</li>
 </ul>
 
-<h2>Améliorations futures</h2>
-<ul>
-  <li>Intégration de différents niveaux de difficulté.</li>
-  <li>Ajout d'un chronomètre pour augmenter le défi.</li>
-  <li>Stockage des scores via localStorage ou une base de données.</li>
-</ul>
-
 <hr>
 <p>Amusez-vous bien avec ce projet de Juste Prix !</p>
