@@ -1,13 +1,13 @@
 <h1 align="center">Projet "Juste Prix"</h1>
 
 <h2>Description</h2>
-<p>Ce projet est une implémentation simple du jeu <strong>Juste Prix</strong> en HTML, CSS et JavaScript. Le but du jeu est de deviner le prix correct d'un article en entrant des valeurs dans une interface utilisateur intuitive.</p>
+<p>Ce projet est une implementation simple du jeu <strong>Juste Prix</strong> en HTML, CSS et JavaScript. Le but du jeu est de deviner le prix correct d'un article en entrant des valeurs dans une interface utilisateur intuitive.</p>
 
-<h2>Fonctionnalités</h2>
+<h2>Fonctionnalites</h2>
 <ul>
-  <li><strong>Interface simple</strong> : Utilise HTML et CSS pour offrir une expérience utilisateur claire et minimaliste.</li>
-  <li><strong>Logique interactive</strong> : Le script JavaScript gère la logique du jeu, notamment les entrées de l'utilisateur et les vérifications du prix.</li>
-  <li><strong>Messages de feedback</strong> : Le joueur est informé si son estimation est trop élevée ou trop basse.</li>
+  <li><strong>Interface simple</strong> : Utilise HTML et CSS pour offrir une experience utilisateur claire et minimaliste.</li>
+  <li><strong>Logique interactive</strong> : Le script JavaScript gere la logique du jeu, notamment les entrees de l'utilisateur et les verifications du prix.</li>
+  <li><strong>Messages de feedback</strong> : Le joueur est informe si son estimation est trop elevee ou trop basse.</li>
 </ul>
 
 <h2>Structure des fichiers</h2>
@@ -22,16 +22,16 @@ justePrix-main/
 <h2>Comment jouer ?</h2>
 <ol>
   <li><strong>Lancez le jeu</strong> en ouvrant <code>index.html</code>.</li>
-  <li><strong>Entrez un prix</strong> que vous pensez être le bon.</li>
+  <li><strong>Entrez un prix</strong> que vous pensez etre le bon.</li>
   <li>Observez le message pour savoir si votre estimation est trop haute, trop basse ou correcte.</li>
-  <li>Réessayez jusqu'à trouver le juste prix !</li>
+  <li>Ressayez jusqu'a trouver le juste prix !</li>
 </ol>
 
-<h2>Compétences acquises</h2>
+<h2>Competences acquises</h2>
 <ul>
-  <li>Maîtrise de la structure HTML pour créer des interfaces simples.</li>
+  <li>Maitrise de la structure HTML pour creer des interfaces simples.</li>
   <li>Utilisation de CSS pour le design et l'ergonomie.</li>
-  <li>Programmation en JavaScript pour gérer la logique et les interactions utilisateur.</li>
+  <li>Programmation en JavaScript pour gerer la logique et les interactions utilisateur.</li>
 </ul>
 
 <hr>
