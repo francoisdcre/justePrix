@@ -14,9 +14,9 @@
 <p>Voici les principaux fichiers du projet :</p>
 <pre>
 justePrix-main/
-├── index.html
-├── style.css
-└── main.js
+|-- index.html
+|-- style.css
+|-- main.js
 </pre>
 
 <h2>Comment jouer ?</h2>
