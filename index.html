@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Juste Prix</title>
+    <link href="style.css" rel="stylesheet">
+    <script src="main.js"></script>
+</head>
+
+<body>
+    <main>
+        <div id="gameOver">
+            <p id="gameEnd">
+                Fin de partie
+            </p>
+            <button onclick="restart()" id="restart">
+                Recommencer ?
+            </button>
+        </div>
+        <div id="title">
+            <h1>
+                Le Juste Prix !
+            </h1>
+        </div>
+        <div id="desc">
+            <p>
+                Le but du jeu est simple ! L'ordinateur va définir une valeur aléatoire et vous allez devoir la deviver.
+                Si vousne trouvez pas du premier coup, l'odinateur vous indiquera si c'est plus ou si c'est moins. Vous
+                avez 10 éssaies pour trouver le bon nombre. Bonne chance.
+            </p>
+        </div>
+        <div id="setup">
+            <div id="plage">
+                <div id="lower">
+                    <p>
+                        Nombre min :
+                    </p>
+                    <input type="number" value="0" id="low">
+                </div>
+                <div id="higher">
+                    <p>
+                        Nombre Max :
+                    </p>
+                    <input type="number" value="100" id="high">
+                </div>
+            </div>
+            <button onclick="selectNumber()" id="validate">
+                Valider
+            </button>
+        </div>
+        <div id="guess">
+            <p>
+                Votre nombre :
+            </p>
+            <input type="number" id="guessNum" value="0">
+            <button onclick="compareNumber()" id="validateNum">
+                Valider
+            </button>
+        </div>
+        <div id="console">
+            <p id="statut">
+                Entrez une valeur pour commencer !
+            </p>
+        </div>
+    </main>
+</body>
+
+</html>
