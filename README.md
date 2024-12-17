@@ -41,11 +41,5 @@ justePrix-main/
   <li>Stockage des scores via localStorage ou une base de données.</li>
 </ul>
 
-<h2>Auteur</h2>
-<p><strong>[Votre Nom]</strong></p>
-
-<h2>Licence</h2>
-<p>Ce projet est sous licence MIT. Voir le fichier <code>LICENSE</code> pour plus de détails.</p>
-
 <hr>
 <p>Amusez-vous bien avec ce projet de Juste Prix !</p>
