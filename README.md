@@ -36,3 +36,7 @@ justePrix-main/
 
 <hr>
 <p>Amusez-vous bien avec ce projet de Juste Prix !</p>
+
+<h2>Preview</h2>
+
+
