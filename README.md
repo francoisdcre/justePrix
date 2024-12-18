@@ -39,4 +39,4 @@ justePrix-main/
 
 <h2>Preview</h2>
 
-![Dashboard](https://raw.githubusercontent.com/francoisdcre/justePrix/main/preview/index.PNG)
+![Index](https://raw.githubusercontent.com/francoisdcre/justePrix/main/preview/index.PNG)
