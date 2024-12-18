@@ -1,5 +1,7 @@
 <h1 align="center">Projet "Juste Prix"</h1>
 
+<a href="https://francoisdcre.github.io/justePrix/" target="_blank"> Visiter le site </a>
+
 <h2>Description</h2>
 <p>Ce projet est une implementation simple du jeu <strong>Juste Prix</strong> en HTML, CSS et JavaScript. Le but du jeu est de deviner le prix correct d'un article en entrant des valeurs dans une interface utilisateur intuitive.</p>
 
